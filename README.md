@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/front-end-mentor-challenges/tree/mortgage-repayment-calculator)
+- [Solution URL Here](https://github.com/AbuEisha/mortgage-repayment-calculator)
 - [Live Site URL Here](https://mortgage-repayment-calculator-live.pages.dev/)
 
 ## My process
